@@ -16,5 +16,7 @@ class FollowVC: UIViewController,IndicatorInfoProvider{
     
     func indicatorInfo(for pagerTabStripController: PagerTabStripViewController) -> IndicatorInfo {
         IndicatorInfo(title : "关注")
+        
+        
     }
 }
