@@ -17,11 +17,11 @@ class HomeVC: ButtonBarPagerTabStripViewController {
         //整体bar--在story上设置
         
         //selectedBar--按钮下方的条
-        settings.style.selectedBarBackgroundColor=UIColor(named: "main")!
+        settings.style.selectedBarBackgroundColor=mainColor
         settings.style.selectedBarHeight=3
         
         //buttonBarItem--文本或图片的按钮
-        settings.style.buttonBarItemBackgroundColor = .clear
+        settings.style.buttonBarItemBackgroundColor = .clear//设置上方选项栏的背景颜色
         settings.style.buttonBarItemFont = .systemFont(ofSize: 16)
         
         super.viewDidLoad()

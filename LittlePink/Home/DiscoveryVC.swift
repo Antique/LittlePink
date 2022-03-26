@@ -39,6 +39,6 @@ class DiscoveryVC: ButtonBarPagerTabStripViewController,IndicatorInfoProvider{
     }
     
     func indicatorInfo(for pagerTabStripController: PagerTabStripViewController) -> IndicatorInfo {
-        IndicatorInfo(title : "发现")
+        IndicatorInfo(title : NSLocalizedString("Discovery", comment: "首页上方的发现标签"))
     }
 }

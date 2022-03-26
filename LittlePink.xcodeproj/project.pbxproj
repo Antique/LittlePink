@@ -20,6 +20,25 @@
 		0484661927E9BBFE008C3F36 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0484661827E9BBFE008C3F36 /* Constants.swift */; };
 		0484661C27EAF43D008C3F36 /* WaterfallVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0484661B27EAF43D008C3F36 /* WaterfallVC.swift */; };
 		0484661E27EAF89D008C3F36 /* WaterfallCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0484661D27EAF89D008C3F36 /* WaterfallCell.swift */; };
+		0484662227EB1C00008C3F36 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 0484662127EB1C00008C3F36 /* README.md */; };
+		0484663227EB25CA008C3F36 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 0484663027EB25CA008C3F36 /* Localizable.strings */; };
+		0484663527EB4771008C3F36 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 0484663727EB4771008C3F36 /* InfoPlist.strings */; };
+		0484663B27EB506E008C3F36 /* TabBarC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0484663A27EB506E008C3F36 /* TabBarC.swift */; };
+		0484663D27EB51A1008C3F36 /* PostVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0484663C27EB51A1008C3F36 /* PostVC.swift */; };
+		0484663F27EB5AD7008C3F36 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0484663E27EB5AD7008C3F36 /* Extensions.swift */; };
+		0497F7C527EC698700E0F15B /* NoteEditVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0497F7C427EC698700E0F15B /* NoteEditVC.swift */; };
+		0497F7C727EC70AA00E0F15B /* PhotoCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0497F7C627EC70AA00E0F15B /* PhotoCell.swift */; };
+		0497F7CA27ED695B00E0F15B /* PhotoFooter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0497F7C927ED695B00E0F15B /* PhotoFooter.swift */; };
+		0497F7CE27ED8FC900E0F15B /* testVideo.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 0497F7CD27ED8EEF00E0F15B /* testVideo.mp4 */; };
+		0497F7D027ED925500E0F15B /* NoteEditVC-DragDrop.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0497F7CF27ED925500E0F15B /* NoteEditVC-DragDrop.swift */; };
+		0497F7D227EDA14E00E0F15B /* NoteEditVC-CollectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0497F7D127EDA14E00E0F15B /* NoteEditVC-CollectionView.swift */; };
+		0497F7D427EDB49100E0F15B /* NoteEditVC-Config.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0497F7D327EDB49100E0F15B /* NoteEditVC-Config.swift */; };
+		0497F7D627EDBFE600E0F15B /* TextViewIAView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0497F7D527EDBFE600E0F15B /* TextViewIAView.xib */; };
+		0497F7D827EDC03B00E0F15B /* TextViewIAView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0497F7D727EDC03B00E0F15B /* TextViewIAView.swift */; };
+		0497F7DA27EDFDF900E0F15B /* ChannelVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0497F7D927EDFDF900E0F15B /* ChannelVC.swift */; };
+		04A72F4A27EE00F3000A70CC /* ChannelTableVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04A72F4927EE00F3000A70CC /* ChannelTableVC.swift */; };
+		04A72F4C27EE11FD000A70CC /* Protocols.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04A72F4B27EE11FD000A70CC /* Protocols.swift */; };
+		04A72F4E27EED799000A70CC /* POIVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04A72F4D27EED799000A70CC /* POIVC.swift */; };
 		098EA495056E6EBCA4746024 /* Pods_LittlePink.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AB21B72EFE86DF133512A0A9 /* Pods_LittlePink.framework */; };
 /* End PBXBuildFile section */
 
@@ -39,6 +58,33 @@
 		0484661827E9BBFE008C3F36 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 		0484661B27EAF43D008C3F36 /* WaterfallVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WaterfallVC.swift; sourceTree = "<group>"; };
 		0484661D27EAF89D008C3F36 /* WaterfallCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WaterfallCell.swift; sourceTree = "<group>"; };
+		0484662127EB1C00008C3F36 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		0484662427EB1EE5008C3F36 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/LaunchScreen.strings"; sourceTree = "<group>"; };
+		0484662A27EB219B008C3F36 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/Main.strings"; sourceTree = "<group>"; };
+		0484663127EB25CA008C3F36 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/Localizable.strings"; sourceTree = "<group>"; };
+		0484663627EB4771008C3F36 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/InfoPlist.strings"; sourceTree = "<group>"; };
+		0484663A27EB506E008C3F36 /* TabBarC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBarC.swift; sourceTree = "<group>"; };
+		0484663C27EB51A1008C3F36 /* PostVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostVC.swift; sourceTree = "<group>"; };
+		0484663E27EB5AD7008C3F36 /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
+		0497F7C027EC41C400E0F15B /* 闭包.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "闭包.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		0497F7C127EC564600E0F15B /* 值类型+引用类型.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "值类型+引用类型.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		0497F7C227EC5B5F00E0F15B /* ARC+循环引用.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "ARC+循环引用.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		0497F7C327EC628D00E0F15B /* 枚举.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "枚举.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		0497F7C427EC698700E0F15B /* NoteEditVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NoteEditVC.swift; sourceTree = "<group>"; };
+		0497F7C627EC70AA00E0F15B /* PhotoCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoCell.swift; sourceTree = "<group>"; };
+		0497F7C827EC760900E0F15B /* 用代码实现collectionview.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "用代码实现collectionview.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		0497F7C927ED695B00E0F15B /* PhotoFooter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoFooter.swift; sourceTree = "<group>"; };
+		0497F7CC27ED812600E0F15B /* LittlePink-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "LittlePink-Bridging-Header.h"; sourceTree = "<group>"; };
+		0497F7CD27ED8EEF00E0F15B /* testVideo.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = testVideo.mp4; sourceTree = "<group>"; };
+		0497F7CF27ED925500E0F15B /* NoteEditVC-DragDrop.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "NoteEditVC-DragDrop.swift"; sourceTree = "<group>"; };
+		0497F7D127EDA14E00E0F15B /* NoteEditVC-CollectionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "NoteEditVC-CollectionView.swift"; sourceTree = "<group>"; };
+		0497F7D327EDB49100E0F15B /* NoteEditVC-Config.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "NoteEditVC-Config.swift"; sourceTree = "<group>"; };
+		0497F7D527EDBFE600E0F15B /* TextViewIAView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = TextViewIAView.xib; sourceTree = "<group>"; };
+		0497F7D727EDC03B00E0F15B /* TextViewIAView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextViewIAView.swift; sourceTree = "<group>"; };
+		0497F7D927EDFDF900E0F15B /* ChannelVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChannelVC.swift; sourceTree = "<group>"; };
+		04A72F4927EE00F3000A70CC /* ChannelTableVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChannelTableVC.swift; sourceTree = "<group>"; };
+		04A72F4B27EE11FD000A70CC /* Protocols.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Protocols.swift; sourceTree = "<group>"; };
+		04A72F4D27EED799000A70CC /* POIVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = POIVC.swift; sourceTree = "<group>"; };
 		0EAEFE5AF09C2CDC44039E31 /* Pods-LittlePink.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LittlePink.release.xcconfig"; path = "Target Support Files/Pods-LittlePink/Pods-LittlePink.release.xcconfig"; sourceTree = "<group>"; };
 		9089602FD8AB160E16FB2680 /* Pods-LittlePink.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LittlePink.debug.xcconfig"; path = "Target Support Files/Pods-LittlePink/Pods-LittlePink.debug.xcconfig"; sourceTree = "<group>"; };
 		AB21B72EFE86DF133512A0A9 /* Pods_LittlePink.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_LittlePink.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -59,7 +105,9 @@
 		048465ED27E89F9C008C3F36 = {
 			isa = PBXGroup;
 			children = (
+				0484662127EB1C00008C3F36 /* README.md */,
 				048465F827E89F9C008C3F36 /* LittlePink */,
+				0497F7CD27ED8EEF00E0F15B /* testVideo.mp4 */,
 				048465F727E89F9C008C3F36 /* Products */,
 				4C2ED5D9476D8A77A0550835 /* Pods */,
 				374D90F0F0417453BA3C6BE0 /* Frameworks */,
@@ -79,15 +127,19 @@
 			children = (
 				048465F927E89F9C008C3F36 /* AppDelegate.swift */,
 				048465FB27E89F9C008C3F36 /* SceneDelegate.swift */,
-				0484661B27EAF43D008C3F36 /* WaterfallVC.swift */,
-				0484661D27EAF89D008C3F36 /* WaterfallCell.swift */,
-				0484661827E9BBFE008C3F36 /* Constants.swift */,
+				0484663A27EB506E008C3F36 /* TabBarC.swift */,
+				0497F7CB27ED711E00E0F15B /* NoteEdit */,
 				048465FF27E89F9C008C3F36 /* Main.storyboard */,
+				0484661F27EB1B8B008C3F36 /* Waterfall */,
 				0484661A27E9BEC1008C3F36 /* Home */,
-				0484660527E89F9D008C3F36 /* Assets.xcassets */,
+				0484662027EB1BAA008C3F36 /* Common */,
+				0484663827EB4991008C3F36 /* Resources */,
+				0484663927EB49FF008C3F36 /* Demos+PH */,
 				0484660727E89F9D008C3F36 /* LaunchScreen.storyboard */,
+				0484660527E89F9D008C3F36 /* Assets.xcassets */,
 				0484660A27E89F9D008C3F36 /* Info.plist */,
 				0484660227E89F9C008C3F36 /* LittlePink.xcdatamodeld */,
+				0497F7CC27ED812600E0F15B /* LittlePink-Bridging-Header.h */,
 			);
 			path = LittlePink;
 			sourceTree = "<group>";
@@ -101,6 +153,65 @@
 				0484661627E9BA22008C3F36 /* NearByVC.swift */,
 			);
 			path = Home;
+			sourceTree = "<group>";
+		};
+		0484661F27EB1B8B008C3F36 /* Waterfall */ = {
+			isa = PBXGroup;
+			children = (
+				0484661D27EAF89D008C3F36 /* WaterfallCell.swift */,
+				0484661B27EAF43D008C3F36 /* WaterfallVC.swift */,
+			);
+			name = Waterfall;
+			sourceTree = "<group>";
+		};
+		0484662027EB1BAA008C3F36 /* Common */ = {
+			isa = PBXGroup;
+			children = (
+				0484661827E9BBFE008C3F36 /* Constants.swift */,
+				0484663E27EB5AD7008C3F36 /* Extensions.swift */,
+				04A72F4B27EE11FD000A70CC /* Protocols.swift */,
+			);
+			name = Common;
+			sourceTree = "<group>";
+		};
+		0484663827EB4991008C3F36 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				0484663027EB25CA008C3F36 /* Localizable.strings */,
+				0484663727EB4771008C3F36 /* InfoPlist.strings */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		0484663927EB49FF008C3F36 /* Demos+PH */ = {
+			isa = PBXGroup;
+			children = (
+				0484663C27EB51A1008C3F36 /* PostVC.swift */,
+				0497F7C027EC41C400E0F15B /* 闭包.playground */,
+				0497F7C127EC564600E0F15B /* 值类型+引用类型.playground */,
+				0497F7C227EC5B5F00E0F15B /* ARC+循环引用.playground */,
+				0497F7C327EC628D00E0F15B /* 枚举.playground */,
+				0497F7C827EC760900E0F15B /* 用代码实现collectionview.playground */,
+			);
+			name = "Demos+PH";
+			sourceTree = "<group>";
+		};
+		0497F7CB27ED711E00E0F15B /* NoteEdit */ = {
+			isa = PBXGroup;
+			children = (
+				0497F7C427EC698700E0F15B /* NoteEditVC.swift */,
+				0497F7D327EDB49100E0F15B /* NoteEditVC-Config.swift */,
+				0497F7D127EDA14E00E0F15B /* NoteEditVC-CollectionView.swift */,
+				0497F7CF27ED925500E0F15B /* NoteEditVC-DragDrop.swift */,
+				0497F7C627EC70AA00E0F15B /* PhotoCell.swift */,
+				0497F7C927ED695B00E0F15B /* PhotoFooter.swift */,
+				0497F7D727EDC03B00E0F15B /* TextViewIAView.swift */,
+				0497F7D527EDBFE600E0F15B /* TextViewIAView.xib */,
+				0497F7D927EDFDF900E0F15B /* ChannelVC.swift */,
+				04A72F4927EE00F3000A70CC /* ChannelTableVC.swift */,
+				04A72F4D27EED799000A70CC /* POIVC.swift */,
+			);
+			name = NoteEdit;
 			sourceTree = "<group>";
 		};
 		374D90F0F0417453BA3C6BE0 /* Frameworks */ = {
@@ -164,6 +275,7 @@
 			knownRegions = (
 				en,
 				Base,
+				"zh-Hans",
 			);
 			mainGroup = 048465ED27E89F9C008C3F36;
 			productRefGroup = 048465F727E89F9C008C3F36 /* Products */;
@@ -180,8 +292,13 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0497F7D627EDBFE600E0F15B /* TextViewIAView.xib in Resources */,
+				0484663227EB25CA008C3F36 /* Localizable.strings in Resources */,
+				0484663527EB4771008C3F36 /* InfoPlist.strings in Resources */,
 				0484660927E89F9D008C3F36 /* LaunchScreen.storyboard in Resources */,
+				0497F7CE27ED8FC900E0F15B /* testVideo.mp4 in Resources */,
 				0484660627E89F9D008C3F36 /* Assets.xcassets in Resources */,
+				0484662227EB1C00008C3F36 /* README.md in Resources */,
 				0484660127E89F9C008C3F36 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -235,16 +352,30 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0497F7D827EDC03B00E0F15B /* TextViewIAView.swift in Sources */,
+				04A72F4C27EE11FD000A70CC /* Protocols.swift in Sources */,
+				0497F7D027ED925500E0F15B /* NoteEditVC-DragDrop.swift in Sources */,
 				0484661727E9BA22008C3F36 /* NearByVC.swift in Sources */,
+				0497F7C727EC70AA00E0F15B /* PhotoCell.swift in Sources */,
+				0484663B27EB506E008C3F36 /* TabBarC.swift in Sources */,
 				0484661C27EAF43D008C3F36 /* WaterfallVC.swift in Sources */,
 				0484661E27EAF89D008C3F36 /* WaterfallCell.swift in Sources */,
+				0497F7CA27ED695B00E0F15B /* PhotoFooter.swift in Sources */,
+				0497F7C527EC698700E0F15B /* NoteEditVC.swift in Sources */,
 				048465FA27E89F9C008C3F36 /* AppDelegate.swift in Sources */,
 				0484661127E9B65A008C3F36 /* HomeVC.swift in Sources */,
+				0484663D27EB51A1008C3F36 /* PostVC.swift in Sources */,
+				0497F7D227EDA14E00E0F15B /* NoteEditVC-CollectionView.swift in Sources */,
+				0497F7DA27EDFDF900E0F15B /* ChannelVC.swift in Sources */,
+				0497F7D427EDB49100E0F15B /* NoteEditVC-Config.swift in Sources */,
 				0484661327E9B9ED008C3F36 /* FollowVC.swift in Sources */,
+				0484663F27EB5AD7008C3F36 /* Extensions.swift in Sources */,
 				048465FC27E89F9C008C3F36 /* SceneDelegate.swift in Sources */,
 				0484660427E89F9C008C3F36 /* LittlePink.xcdatamodeld in Sources */,
+				04A72F4A27EE00F3000A70CC /* ChannelTableVC.swift in Sources */,
 				0484661527E9BA0B008C3F36 /* DiscoveryVC.swift in Sources */,
 				0484661927E9BBFE008C3F36 /* Constants.swift in Sources */,
+				04A72F4E27EED799000A70CC /* POIVC.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -255,6 +386,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				0484660027E89F9C008C3F36 /* Base */,
+				0484662A27EB219B008C3F36 /* zh-Hans */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
@@ -263,8 +395,25 @@
 			isa = PBXVariantGroup;
 			children = (
 				0484660827E89F9D008C3F36 /* Base */,
+				0484662427EB1EE5008C3F36 /* zh-Hans */,
 			);
 			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+		0484663027EB25CA008C3F36 /* Localizable.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				0484663127EB25CA008C3F36 /* zh-Hans */,
+			);
+			name = Localizable.strings;
+			sourceTree = "<group>";
+		};
+		0484663727EB4771008C3F36 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				0484663627EB4771008C3F36 /* zh-Hans */,
+			);
+			name = InfoPlist.strings;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
@@ -274,6 +423,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";
@@ -320,7 +470,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 15.4;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.5;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
@@ -334,6 +484,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";
@@ -374,7 +525,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 15.4;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.5;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				SDKROOT = iphoneos;
@@ -395,7 +546,7 @@
 				DEVELOPMENT_TEAM = M8K36Q2SSX;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = LittlePink/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = "小粉书";
+				INFOPLIST_KEY_CFBundleDisplayName = Pink;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -410,6 +561,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "EYA-Studio.LittlePink";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_OBJC_BRIDGING_HEADER = "LittlePink/LittlePink-Bridging-Header.h";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 1;
 			};
@@ -426,7 +578,7 @@
 				DEVELOPMENT_TEAM = M8K36Q2SSX;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = LittlePink/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = "小粉书";
+				INFOPLIST_KEY_CFBundleDisplayName = Pink;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -441,6 +593,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "EYA-Studio.LittlePink";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_OBJC_BRIDGING_HEADER = "LittlePink/LittlePink-Bridging-Header.h";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 1;
 			};
